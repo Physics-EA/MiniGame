@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/_World 2 Savanna new.unity
+  isLoaded: 1
+  isActive: 1
